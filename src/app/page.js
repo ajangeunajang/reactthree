@@ -1,9 +1,9 @@
-import Scene from "./components/Scene";
+import SceneTorus from "./components/SceneTorus";
 
 export default function Home() {
   return (
     <div className="relative w-screen h-screen">
-      <Scene />
+      <SceneTorus />
     </div>
   );
 }
