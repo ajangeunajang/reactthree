@@ -31,6 +31,9 @@ export default function RootLayout({ children }) {
           <Link href="/blob" className="text-white px-3 text-xl">
             Blob
           </Link>
+          <Link href="/blob/trans" className="text-white px-3 text-xl">
+            and...
+          </Link>
         </div>
       </body>
     </html>
